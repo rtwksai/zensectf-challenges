@@ -1,0 +1,5 @@
+We people at Zense are planning to screen the series Mr Robot. We want it to be screened today itself. 
+We are to blame we didn't get the permission from Chetan Parikh in time. Can you help us screen Mr.Robot it today itself?
+But how do we get permission for opening the room? Getting the keys isn't enough this time:/
+
+Use `nc chal.zense.co.in 6702` to connect to the challenges

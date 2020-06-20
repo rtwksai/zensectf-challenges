@@ -1,0 +1,1 @@
+The professor from the previous question figures out where he went wrong and decides to make necessary changes. So this time he tries to meet his security goal - make it secure enough to go way over the heads of his enemies. And this is what he got is in the question below-
