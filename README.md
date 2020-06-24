@@ -1,6 +1,8 @@
 # Zense CTF
 
 These are the following challenges for ZenseCTF 2020
+The writeups for the challenges are on https://hackmd.io/@keiser/ctf-writeups
+Source code for challenges on https://github.com/DaKeiser/zensectf
 
 ## Binary Exploitation
 Author: SamaVerse
